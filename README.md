@@ -1,7 +1,7 @@
 # Instructions-for-recording-samples
 Инструкция по записи сэмплов, для Wake-up слова OkSky.
 1. Сканируем QR код
-2. Должно открыться окно с выбором типа собираемых данных, выбираем "Collecting Audio"
+2. Должно открыться окно с выбором типа собираемых данных, выбираем "Collecting audio"
 
 ![image](https://github.com/user-attachments/assets/4ad65468-077b-4334-ba56-7959d26bce3a)
 
